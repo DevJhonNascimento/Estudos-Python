@@ -1,0 +1,1 @@
+print("Hoje iniciamos uma nova fase, bem vindo ao python");
